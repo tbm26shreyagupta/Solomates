@@ -7,7 +7,7 @@ Solomates is a no-code web app for solo travelers to find compatible travel budd
 - Preview (if needed): PASTE_YOUR_PREVIEW_LINK
 
 ## 🎥 Loom Walkthrough
-- Loom Video: PASTE_YOUR_LOOM_LINK
+- Loom Video: (https://www.loom.com/share/121afdb7462b4a7ebd399d5a956e6336)
 
 ## ✅ Assignment Checklist
 - Landing page describing idea ✅
